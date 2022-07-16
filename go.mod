@@ -3,7 +3,7 @@ module github.com/befovy/fvm
 go 1.13
 
 require (
-	github.com/logrusorgru/aurora v0.0.0-20191116043053-66b7ad493a23
+	github.com/logrusorgru/aurora v0.0.0-20200826173525-f9321e4c35a6
 	github.com/pelletier/go-toml v1.6.0 // indirect
 	github.com/spf13/afero v1.2.2 // indirect
 	github.com/spf13/cobra v0.0.5
